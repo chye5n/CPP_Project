@@ -1,0 +1,7 @@
+﻿  ScoreManager.cpp
+C:\Users\zkdlz\OneDrive\Desktop\cpp\mission\ScoreManager.cpp(1,1): warning C4828: 파일에 0xe9d 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+  Student.cpp
+  main.cpp
+C:\Users\zkdlz\OneDrive\Desktop\cpp\mission\main.cpp(93,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  코드를 생성하고 있습니다...
+  mission.vcxproj -> C:\Users\zkdlz\OneDrive\Desktop\cpp\mission\x64\Debug\mission.exe
